@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Practica terraform"
+date:   2024-02-26 06:45:43 -0600
+categories: terraform iaw
+---
+
 # Terraform en tres niveles
 
 ![](/images/terra.png)
