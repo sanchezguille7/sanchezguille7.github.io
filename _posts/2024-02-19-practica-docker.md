@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "PRctica docker"
+title:  "Practica docker"
 date:   2024-02-19 06:45:43 -0600
 categories: kuberneter iaw
 ---
 
 
-![]({{ site.url }}/images/Docker_logo.png)
+![](/images/Docker_logo.png)
 Practica sobre docker
 
 # Docker Web 2
