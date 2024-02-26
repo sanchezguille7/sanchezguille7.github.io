@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Esta es la pagina principal
+Esta es mi pagina principal
