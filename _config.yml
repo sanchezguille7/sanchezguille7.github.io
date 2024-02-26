@@ -28,7 +28,7 @@ twitter_username: sanchezguille7
 github_username:  sanchezguille7
 
 # Build settings
-theme: Bulma
+theme: bulma-clean-theme
 plugins:
   - jekyll-theme-chirpy
 
